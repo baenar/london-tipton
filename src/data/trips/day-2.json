@@ -1,9 +1,9 @@
 {
   "version": "1.0",
-  "id": "trip-1790158353727",
+  "id": "trip-1790175249509",
   "title": "Day 2 - Westminster Abbey to Tower Bridge walk",
   "description": "Created with London Walking Trip Planner",
-  "createdAt": "2026-09-23T10:12:33.727Z",
+  "createdAt": "2026-09-23T14:54:09.509Z",
   "walkingSpeedKmh": 4.5,
   "stops": [
     {
@@ -20,6 +20,14 @@
     },
     {
       "locationId": "national-gallery",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "piccadilly-circus",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "soho-chinatown",
       "durationMinutes": 0
     },
     {
