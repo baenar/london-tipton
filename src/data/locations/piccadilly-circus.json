@@ -1,0 +1,13 @@
+﻿{
+  "id": "piccadilly-circus",
+  "name": "Piccadilly Circus & West End",
+  "coordinates": [51.5101, -0.1349],
+  "description": "London's bustling Times Square equivalent, famous for its giant curved digital billboard screens, the Shaftesbury Memorial Fountain with the statue of Anteros (Eros), and West End theatres.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Piccadilly_Circus",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d187556-Reviews-Piccadilly_Circus-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Open_Happiness_Piccadilly_Circus_Blue-Pink_Hour_120917-1126-jikatu.jpg/1280px-Open_Happiness_Piccadilly_Circus_Blue-Pink_Hour_120917-1126-jikatu.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 30,
+  "highlight": "Famous neon advertising curved screens & Eros statue",
+  "address": "Piccadilly Circus, London W1J 9HP, United Kingdom"
+}

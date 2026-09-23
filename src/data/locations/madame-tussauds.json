@@ -1,0 +1,12 @@
+﻿{
+  "id": "madame-tussauds",
+  "name": "Madame Tussauds London",
+  "coordinates": [51.5227, -0.1545],
+  "description": "The world-famous wax museum on Marylebone Road with lifelike celebrities, royals, a Marvel 4D experience, and the Chamber of Horrors.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Madame_Tussauds",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/WaxMuseumMadameTussaudsLondon.JPG/1280px-WaxMuseumMadameTussaudsLondon.JPG",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 120,
+  "highlight": "Pose with hundreds of lifelike celebrity waxworks",
+  "address": "Marylebone Rd, London NW1 5LR, UK"
+}

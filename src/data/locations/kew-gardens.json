@@ -1,0 +1,12 @@
+﻿{
+  "id": "kew-gardens",
+  "name": "Kew Gardens (Royal Botanic Gardens)",
+  "coordinates": [51.4787, -0.2956],
+  "description": "The world's most biodiverse botanic garden of 300+ acres, home to the Palm House, Temperate House, treetop walkway, and giant water lilies by the lake.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Botanic_Gardens,_Kew",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/At_Royal_Botanic_Gardens%2C_Kew_2024_002.jpg/1280px-At_Royal_Botanic_Gardens%2C_Kew_2024_002.jpg",
+  "category": "Park & Nature",
+  "suggestedDurationMinutes": 180,
+  "highlight": "Palm House, Temperate House and 18m treetop walkway",
+  "address": "Royal Botanic Gardens, Kew, Richmond TW9 3AE, UK"
+}

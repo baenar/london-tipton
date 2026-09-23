@@ -1,0 +1,12 @@
+﻿{
+  "id": "churchill-war-rooms",
+  "name": "Churchill War Rooms",
+  "coordinates": [51.5022, -0.1295],
+  "description": "The underground Cabinet War Rooms where Churchill and his government directed WWII strategy, preserved almost exactly as they were in 1945.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Churchill_War_Rooms",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/MapRoomCabinetWarRoomsTrim.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Step into the secret HQ of Britain's wartime leadership",
+  "address": "King Charles St, London SW1A 2AQ, UK"
+}

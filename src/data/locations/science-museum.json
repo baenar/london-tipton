@@ -1,0 +1,12 @@
+﻿{
+  "id": "science-museum",
+  "name": "Science Museum",
+  "coordinates": [51.4978, -0.1746],
+  "description": "South Kensington's world-class museum of science and technology, from the Apollo 10 command module to the iMAX cinema and interactive Wonderlab.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Science_Museum,_London",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg/1280px-Science_Museum%2C_Exhibition_Road_%28cropped%29.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 120,
+  "highlight": "Apollo 10 command module and 300+ interactive exhibits",
+  "address": "Exhibition Rd, South Kensington, London SW7 2DD, UK"
+}

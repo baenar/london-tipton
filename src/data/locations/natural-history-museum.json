@@ -1,0 +1,13 @@
+﻿{
+  "id": "natural-history-museum",
+  "name": "Natural History Museum",
+  "coordinates": [51.4967, -0.1764],
+  "description": "Voted London's top museum experience, set in a breathtaking cathedral of nature featuring the towering blue whale skeleton 'Hope', animated T-Rex, and gem collections.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Natural_History_Museum,_London",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d188556-Reviews-Natural_History_Museum-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Natural_History_Museum_HDR.jpg/1280px-Natural_History_Museum_HDR.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Blue whale skeleton in Hintze Hall & animatronic dinosaurs",
+  "address": "Cromwell Rd, South Kensington, London SW7 5BD, United Kingdom"
+}

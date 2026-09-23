@@ -1,0 +1,13 @@
+﻿{
+  "id": "westminster-abbey",
+  "name": "Westminster Abbey",
+  "coordinates": [51.4993, -0.1273],
+  "description": "Magnificent UNESCO World Heritage Gothic church that has witnessed every British monarch's coronation since 1066, royal weddings, and burials of kings and poets.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d188557-Reviews-Westminster_Abbey-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/1280px-Westminster_Abbey%2C_Westminster.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Coronation Chair, Poets' Corner, and soaring medieval Gothic vaults",
+  "address": "Dean's Yard, London SW1P 3PA, United Kingdom"
+}

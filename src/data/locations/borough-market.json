@@ -1,0 +1,12 @@
+﻿{
+  "id": "borough-market",
+  "name": "Borough Market",
+  "coordinates": [51.5055, -0.0910],
+  "description": "One of London's oldest and largest food markets dating back to the 12th century, offering British and international artisanal delicacies.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Borough_Market",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Borough_Market%2C_London_-_geograph.org.uk_-_5472975.jpg",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Artisan cheeses, fresh oysters, street food, and Victorian arches",
+  "address": "8 Southwark St, London SE1 1TL, United Kingdom"
+}

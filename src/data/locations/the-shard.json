@@ -1,0 +1,12 @@
+﻿{
+  "id": "the-shard",
+  "name": "The Shard Observation Deck (The View)",
+  "coordinates": [51.5045, -0.0865],
+  "description": "London's 310-metre glass skyscraper offering panoramic views of the city from the View from The Shard observation levels on floors 68-72.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_Shard",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Shard_at_sunset_2017_%28cropped%29.jpg/1280px-The_Shard_at_sunset_2017_%28cropped%29.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Best skyline views, from floor 68 to the open-air deck 72",
+  "address": "32 London Bridge St, London SE1 9SG, UK"
+}

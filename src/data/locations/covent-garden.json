@@ -1,0 +1,12 @@
+﻿{
+  "id": "covent-garden",
+  "name": "Covent Garden",
+  "coordinates": [51.5117, -0.1238],
+  "description": "Lively pedestrian precinct famous for its 19th-century Apple Market, street performers, boutique shops, and the Royal Opera House.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Covent_Garden",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Covent_Garden_Interior_May_2006_crop.jpg/1280px-Covent_Garden_Interior_May_2006_crop.jpg",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Street theater, artisan crafts, and piazza cafes",
+  "address": "The Apple Market, London WC2E 8HD, United Kingdom"
+}

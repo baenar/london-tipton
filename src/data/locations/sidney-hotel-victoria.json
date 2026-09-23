@@ -1,0 +1,12 @@
+﻿{
+  "id": "sidney-hotel-victoria",
+  "name": "Sidney Hotel London-Victoria",
+  "coordinates": [51.4897, -0.1416],
+  "description": "A welcoming 3-star Victorian townhouse hotel in Pimlico / Victoria, close to Victoria Station, Westminster Abbey, and Buckingham Palace.",
+  "wikipediaUrl": "https://www.sidneyhotel.com/en/",
+  "imageUrl": "https://www.sidneyhotel.com/media/uploads/cms_apps/imagenes/Exterior-9_1.jpg?q=pr:sharp/rs:fill/w:1200/h:630/g:ce/f:jpg",
+  "category": "Hotel & Stay",
+  "suggestedDurationMinutes": 30,
+  "highlight": "Charming Victorian townhouse rows on Belgrave Road near Victoria Station",
+  "address": "68-76 Belgrave Rd, London SW1V 2BP, United Kingdom"
+}

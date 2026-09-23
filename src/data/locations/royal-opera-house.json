@@ -1,0 +1,12 @@
+﻿{
+  "id": "royal-opera-house",
+  "name": "Royal Opera House",
+  "coordinates": [51.5134, -0.1226],
+  "description": "Covent Garden's spectacular opera house - home of The Royal Opera and Ballet - with lavish Victorian interior, roof garden, and backstage tours.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Opera_House",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Royal_Opera_House_and_ballerina.jpg/1280px-Royal_Opera_House_and_ballerina.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Grand lobby, rooftop garden and backstage tours",
+  "address": "Bow St, Covent Garden, London WC2E 9DD, UK"
+}

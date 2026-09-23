@@ -1,0 +1,13 @@
+﻿{
+  "id": "harrods",
+  "name": "Harrods & Knightsbridge",
+  "coordinates": [51.4994, -0.1632],
+  "description": "The world's most celebrated luxury department store, spanning seven floors with legendary Food Halls, Egyptian escalators, designer boutiques, and lavish seasonal window displays.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Harrods",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d187557-Reviews-Harrods-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Harrods_%28London%29.jpg/1280px-Harrods_%28London%29.jpg",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Opulent Roastery & Bake Hall, Egyptian escalator and luxury gifting",
+  "address": "87-135 Brompton Rd, London SW1X 7XL, United Kingdom"
+}

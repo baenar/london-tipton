@@ -1,0 +1,12 @@
+﻿{
+  "id": "regents-park",
+  "name": "Regent's Park & Primrose Hill",
+  "coordinates": [51.5286, -0.155],
+  "description": "John Nash's landscaped royal park with elegant gardens, the Open Air Theatre, boating lake, and the famous Primrose Hill viewpoint over the London skyline.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Regent%27s_Park",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Regent%27s_Park_bandstand.jpg/1280px-Regent%27s_Park_bandstand.jpg",
+  "category": "Park & Nature",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Climb Primrose Hill for one of London's best skyline views",
+  "address": "Regent's Park, London NW1 4NR, UK"
+}

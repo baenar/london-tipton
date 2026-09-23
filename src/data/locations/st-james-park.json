@@ -1,0 +1,12 @@
+﻿{
+  "id": "st-james-park",
+  "name": "St. James's Park & The Mall",
+  "coordinates": [51.5025, -0.1340],
+  "description": "The oldest Royal Park in London with a beautiful lake, pelican feeding, views of Buckingham Palace along The Mall, and flower beds among weeping willows.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St._James%27s_Park",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/St_James%27s_Park_Lake_%E2%80%93_East_from_the_Blue_Bridge_-_2012-10-06.jpg/1280px-St_James%27s_Park_Lake_%E2%80%93_East_from_the_Blue_Bridge_-_2012-10-06.jpg",
+  "category": "Park & Nature",
+  "suggestedDurationMinutes": 30,
+  "highlight": "Pelicans on the lake & postcard-perfect view down The Mall to Buckingham Palace",
+  "address": "London SW1A 2BJ, United Kingdom"
+}

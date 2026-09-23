@@ -1,0 +1,12 @@
+﻿{
+  "id": "hyde-park",
+  "name": "Hyde Park & Kensington Gardens",
+  "coordinates": [51.5073, -0.1657],
+  "description": "One of the Royal Parks of London, famous for Speakers' Corner, the Serpentine Lake, memorial fountains, and vast serene pathways.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyde_Park,_London",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Hyde_Park_London_from_the_air.jpg/1280px-Hyde_Park_London_from_the_air.jpg",
+  "category": "Park & Nature",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Serpentine boating lake, Diana Memorial Fountain & Rose Garden",
+  "address": "London W2 2UH, United Kingdom"
+}

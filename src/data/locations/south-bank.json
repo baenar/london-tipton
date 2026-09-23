@@ -1,0 +1,12 @@
+﻿{
+  "id": "south-bank",
+  "name": "South Bank Riverside Walk",
+  "coordinates": [51.5072, -0.1124],
+  "description": "London's most scenic riverside promenade stretching from Westminster Bridge to Tower Bridge, passing the London Eye, BFI Southbank cinema, Gabriel's Wharf, skateboarders and street performers.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/South_Bank,_London",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/London_Eye_Jan_2006.jpg/1280px-London_Eye_Jan_2006.jpg",
+  "category": "Park & Nature",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Iconic Thames views, skate park beneath Waterloo Bridge & weekend book market",
+  "address": "South Bank, London SE1, United Kingdom"
+}

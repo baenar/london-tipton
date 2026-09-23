@@ -1,0 +1,12 @@
+﻿{
+  "id": "greenwich-park",
+  "name": "Greenwich Park & Royal Observatory",
+  "coordinates": [51.4769, 0.0005],
+  "description": "Stand on the Prime Meridian (longitude 0°) at the historic Royal Observatory, enjoy panoramic views of London from the hilltop, and explore the Cutty Sark clipper ship below.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Observatory,_Greenwich",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Royal_observatory_greenwich.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 75,
+  "highlight": "Straddle the Prime Meridian & hilltop panorama of London",
+  "address": "Blackheath Ave, London SE10 8XJ, United Kingdom"
+}

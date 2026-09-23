@@ -1,0 +1,12 @@
+﻿{
+  "id": "wembley-stadium",
+  "name": "Wembley Stadium",
+  "coordinates": [51.556, -0.2795],
+  "description": "The 90,000-seat national stadium of England, home of the FA Cup final and concerts, recognisable by its giant arch visible across northwest London.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wembley_Stadium",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/London_Wembley.jpg/1280px-London_Wembley.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 75,
+  "highlight": "The iconic 133m arch of England's national stadium",
+  "address": "Wembley Stadium, London HA9 0WS, UK"
+}

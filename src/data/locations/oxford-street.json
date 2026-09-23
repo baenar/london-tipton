@@ -1,0 +1,12 @@
+﻿{
+  "id": "oxford-street",
+  "name": "Oxford Street & Carnaby Street",
+  "coordinates": [51.5154, -0.1415],
+  "description": "Europe's busiest shopping street stretching 1.2 miles with over 300 shops, flagship department stores, and the legendary Selfridges. Nearby Carnaby Street offers independent boutiques and street art.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Oxford_Street",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Oxford_Street_%28geograph_4949395%29.jpg/1280px-Oxford_Street_%28geograph_4949395%29.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Selfridges window displays, Carnaby Street murals & flagship stores",
+  "address": "Oxford St, London W1C 1JN, United Kingdom"
+}

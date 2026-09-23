@@ -1,0 +1,12 @@
+﻿{
+  "id": "london-eye",
+  "name": "The London Eye",
+  "coordinates": [51.5033, -0.1195],
+  "description": "Europe's tallest cantilevered observation wheel situated on the South Bank of the River Thames, offering 360-degree views across London.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London_Eye",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/London-Eye-2009.JPG/1280px-London-Eye-2009.JPG",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 45,
+  "highlight": "30-minute rotation with 360-degree London skyline views",
+  "address": "Riverside Building, County Hall, London SE1 7PB, United Kingdom"
+}

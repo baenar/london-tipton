@@ -1,0 +1,12 @@
+﻿{
+  "id": "tate-modern",
+  "name": "Tate Modern & Millennium Bridge",
+  "coordinates": [51.5076, -0.0994],
+  "description": "Britain's national gallery of international modern and contemporary art, housed in the former Bankside Power Station and connected to St Paul's by Millennium Bridge.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tate_Modern",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tate_Modern_-_Bankside_Power_Station.jpg/1280px-Tate_Modern_-_Bankside_Power_Station.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Turbine Hall installations & riverside terrace views",
+  "address": "Bankside, London SE1 9TG, United Kingdom"
+}

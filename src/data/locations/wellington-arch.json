@@ -1,0 +1,12 @@
+﻿{
+  "id": "wellington-arch",
+  "name": "Wellington Arch",
+  "coordinates": [51.5027, -0.1508],
+  "description": "A triumphal arch at Hyde Park Corner crowned by the bronze Quadriga, with a museum inside and rooftop balconies offering views over the parks.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Wellington_Arch",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/London_Wellington_Arch_P1130942.jpg/1280px-London_Wellington_Arch_P1130942.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 30,
+  "highlight": "Rooftop balconies with sweeping park views",
+  "address": "Hyde Park Corner, London W1J 7JZ, UK"
+}

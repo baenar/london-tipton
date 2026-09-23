@@ -1,0 +1,12 @@
+﻿{
+  "id": "british-museum",
+  "name": "The British Museum",
+  "coordinates": [51.5194, -0.1270],
+  "description": "World-renowned public museum dedicated to human history, art and culture, housing a vast collection including the Rosetta Stone and Egyptian mummies.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/British_Museum",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/1280px-British_Museum_from_NE_2.JPG",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Rosetta Stone, Great Court roof, Parthenon Sculptures",
+  "address": "Great Russell St, London WC1B 3DG, United Kingdom"
+}

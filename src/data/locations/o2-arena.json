@@ -1,0 +1,12 @@
+﻿{
+  "id": "o2-arena",
+  "name": "The O2 Arena",
+  "coordinates": [51.5030, 0.0032],
+  "description": "One of the world's most famous entertainment venues and iconic dome structure located on the Greenwich Peninsula, offering arena events, Up at The O2 roof walk, and waterfront dining.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/The_O2_Arena",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/The_O2%2C_Greenwich%2C_London.jpg/1280px-The_O2%2C_Greenwich%2C_London.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Iconic dome architecture and Up at The O2 roof climb",
+  "address": "Peninsula Square, London SE10 0DX, United Kingdom"
+}

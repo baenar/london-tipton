@@ -1,0 +1,12 @@
+﻿{
+  "id": "st-pauls-cathedral",
+  "name": "St Paul's Cathedral",
+  "coordinates": [51.5138, -0.0984],
+  "description": "Sir Christopher Wren's masterpiece baroque cathedral, featuring the world-famous dome, Whispering Gallery, and Golden Gallery panorama.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/St_Pauls_aerial_%28cropped%29.jpg/1280px-St_Pauls_aerial_%28cropped%29.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Whispering Gallery acoustics and dome top climb",
+  "address": "St. Paul's Churchyard, London EC4M 8AD, United Kingdom"
+}

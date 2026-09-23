@@ -1,0 +1,12 @@
+﻿{
+  "id": "royal-albert-hall",
+  "name": "Royal Albert Hall",
+  "coordinates": [51.5009, -0.1775],
+  "description": "The grand concert hall on Kensington Gore, home of the Proms, with its striking terracotta dome and frequent tours, concerts, and free lunchtime foyer events.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Royal_Albert_Hall",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Royal_Albert_Hall%2C_London_-_Nov_2012.jpg/1280px-Royal_Albert_Hall%2C_London_-_Nov_2012.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Gilded Victorian concert hall immortalised by the Proms",
+  "address": "Kensington Gore, South Kensington, London SW7 2AP, UK"
+}

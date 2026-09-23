@@ -1,0 +1,12 @@
+﻿{
+  "id": "kensington-palace",
+  "name": "Kensington Palace & Gardens",
+  "coordinates": [51.5051, -0.1879],
+  "description": "Royal palace and residence of members of the British royal family, set within Kensington Gardens with the Round Pond, Albert Memorial and serene Italian Garden nearby.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Kensington_Palace",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Kensington_Palace%2C_the_South_Front_-_geograph.org.uk_-_287402.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Diana Memorial playground, royal dress exhibition & Orangery tearoom",
+  "address": "Kensington Gardens, London W8 4PX, United Kingdom"
+}

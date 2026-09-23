@@ -1,0 +1,13 @@
+﻿{
+  "id": "notting-hill",
+  "name": "Notting Hill & Portobello Road Market",
+  "coordinates": [51.5172, -0.2057],
+  "description": "Picturesque bohemian neighbourhood famous for vibrant pastel-coloured Victorian townhouses, vintage fashion, antique market stalls, and film locations.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Portobello_Road",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d188941-Reviews-Portobello_Road_Market-London_England.html",
+  "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Portobello_road_sign.jpg",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Pastel terraced houses, vintage vinyl & Saturday antique market",
+  "address": "Portobello Rd, Notting Hill, London W11 1LJ, United Kingdom"
+}

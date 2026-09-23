@@ -1,0 +1,13 @@
+﻿{
+  "id": "soho-chinatown",
+  "name": "Soho & Chinatown",
+  "coordinates": [51.5126, -0.1311],
+  "description": "The pulse of Central London's nightlife, dining, and culture. Stroll through Gerrard Street under ornate Chinese arches and lantern-lined streets into energetic Soho alleys.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinatown,_London",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d198818-Reviews-Chinatown-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/London%2C_China_Town_--_2016_--_4868.jpg/1280px-London%2C_China_Town_--_2016_--_4868.jpg",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Chinese Paifang archway, Dim Sum bakeries & Soho jazz bars",
+  "address": "Gerrard St, London W1D 5PT, United Kingdom"
+}

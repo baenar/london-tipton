@@ -1,0 +1,12 @@
+﻿{
+  "id": "10-downing-street",
+  "name": "10 Downing Street",
+  "coordinates": [51.5034, -0.1276],
+  "description": "The official residence of the Prime Minister of the United Kingdom, guarded by armed police at the famous black door on Downing Street.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/10_Downing_Street",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/10_Downing_Street._MOD_45155532.jpg/1280px-10_Downing_Street._MOD_45155532.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 15,
+  "highlight": "Photo stop at the world-famous black door",
+  "address": "10 Downing St, London SW1A 2AA, UK"
+}

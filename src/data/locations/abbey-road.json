@@ -1,0 +1,13 @@
+﻿{
+  "id": "abbey-road",
+  "name": "Abbey Road Zebra Crossing",
+  "coordinates": [51.5322, -0.1774],
+  "description": "The world-famous pedestrian zebra crossing immortalised on The Beatles' 1969 album cover, located right outside the legendary Abbey Road Recording Studios.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Abbey_Road_(album)#Cover",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d215572-Reviews-Abbey_Road-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Beatles%27_zebra_crossing_on_Abbey_Road_-_geograph.org.uk_-_6395253.jpg/1280px-Beatles%27_zebra_crossing_on_Abbey_Road_-_geograph.org.uk_-_6395253.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 20,
+  "highlight": "Recreating The Beatles' iconic album walk & graffiti studio wall",
+  "address": "3 Abbey Rd, St John's Wood, London NW8 9AY, United Kingdom"
+}

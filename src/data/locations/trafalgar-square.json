@@ -1,0 +1,12 @@
+﻿{
+  "id": "trafalgar-square",
+  "name": "Trafalgar Square & National Gallery",
+  "coordinates": [51.5080, -0.1281],
+  "description": "Vibrant public square commemorating the Battle of Trafalgar, dominated by Nelson's Column, lion statues, and fronting the National Gallery.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Trafalgar_Square",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/1280px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Nelson's Column, bronze lions, and National Gallery entrance",
+  "address": "Trafalgar Sq, London WC2N 5DN, United Kingdom"
+}

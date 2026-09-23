@@ -1,0 +1,13 @@
+﻿{
+  "id": "baker-street",
+  "name": "Baker Street & Sherlock Holmes Museum",
+  "coordinates": [51.5237, -0.1585],
+  "description": "The world's most famous detective address at 221B Baker Street, featuring the Victorian Sherlock Holmes Museum, statue, and nearby Madame Tussauds.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/221B_Baker_Street",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d211756-Reviews-The_Sherlock_Holmes_Museum-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Sign_at_Sherlock_Holmes_Museum_in_Baker_St_221b.jpg/1280px-Sign_at_Sherlock_Holmes_Museum_in_Baker_St_221b.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 45,
+  "highlight": "221B Baker Street doorstep, Sherlock Victorian study, and gift shop",
+  "address": "221b Baker St, London NW1 6XE, United Kingdom"
+}

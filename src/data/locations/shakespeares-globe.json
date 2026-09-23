@@ -1,0 +1,12 @@
+﻿{
+  "id": "shakespeares-globe",
+  "name": "Shakespeare's Globe",
+  "coordinates": [51.5081, -0.0972],
+  "description": "A faithful open-air reconstruction of the original Elizabethan playhouse where William Shakespeare wrote and staged his greatest plays.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Shakespeare%27s_Globe",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg/1280px-Restaurante_The_Swan%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_113.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Authentic thatch-roof open-air circular wooden theatre",
+  "address": "21 New Globe Walk, London SE1 9DT, United Kingdom"
+}

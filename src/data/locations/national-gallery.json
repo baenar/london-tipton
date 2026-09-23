@@ -1,0 +1,12 @@
+﻿{
+  "id": "national-gallery",
+  "name": "National Gallery",
+  "coordinates": [51.5089, -0.1283],
+  "description": "One of the world's greatest art galleries housing over 2,300 Western European paintings from the 13th to 19th century — including works by Van Gogh, da Vinci, Monet, Rembrandt and Turner.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/National_Gallery",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/1280px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Van Gogh's Sunflowers, The Arnolfini Portrait & free entry",
+  "address": "Trafalgar Square, London WC2N 5DN, United Kingdom"
+}

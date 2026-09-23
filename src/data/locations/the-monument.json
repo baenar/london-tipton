@@ -1,0 +1,12 @@
+﻿{
+  "id": "the-monument",
+  "name": "The Monument to the Great Fire of London",
+  "coordinates": [51.5101, -0.086],
+  "description": "A 61-metre Doric column designed by Sir Christopher Wren marking the spot where the Great Fire of 1666 began. Climb 311 spiral steps for a classic City view.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Monument_to_the_Great_Fire_of_London",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/The_Monument_to_the_Great_Fire_of_London.JPG/1280px-The_Monument_to_the_Great_Fire_of_London.JPG",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 30,
+  "highlight": "311 steps to the very top of Wren's 61m column",
+  "address": "Monument St, London EC3R 8AH, UK"
+}

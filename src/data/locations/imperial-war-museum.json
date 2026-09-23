@@ -1,0 +1,12 @@
+﻿{
+  "id": "imperial-war-museum",
+  "name": "Imperial War Museum London",
+  "coordinates": [51.4959, -0.1087],
+  "description": "Museum exploring conflict from WWI to today, with the famous atrium guns, the WWI and Holocaust galleries, and rotating exhibitions.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Imperial_War_Museum",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Imperial_War_Museum%2C_London_-_north_view.jpg/1280px-Imperial_War_Museum%2C_London_-_north_view.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 120,
+  "highlight": "Iconic atrium with the WWI tanks and naval guns",
+  "address": "Lambeth Rd, London SE1 6HZ, UK"
+}

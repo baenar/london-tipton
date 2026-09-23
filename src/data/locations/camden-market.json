@@ -1,0 +1,12 @@
+﻿{
+  "id": "camden-market",
+  "name": "Camden Market",
+  "coordinates": [51.5414, -0.1465],
+  "description": "A diverse community of creative sellers, street food traders, and independent stores by the Regent's Canal.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Camden_Market",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Camden_markets_entrance.JPG/1280px-Camden_markets_entrance.JPG",
+  "category": "Market & Food",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Regent's Canal walks, vintage stalls and world food",
+  "address": "Camden Lock Pl, London NW1 8AF, UK"
+}

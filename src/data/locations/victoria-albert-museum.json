@@ -1,0 +1,12 @@
+﻿{
+  "id": "victoria-albert-museum",
+  "name": "Victoria & Albert Museum",
+  "coordinates": [51.4966, -0.1722],
+  "description": "The world's largest museum of art and design, housing 2.3 million objects spanning 5,000 years from ancient ceramics and fashion to furniture, photography and digital art.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Victoria_and_Albert_Museum",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/At_Victoria_and_Albert_Museum_2024_001.jpg/1280px-At_Victoria_and_Albert_Museum_2024_001.jpg",
+  "category": "Museum & Gallery",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Cast Courts, fashion vault, jewellery gallery & iconic mosaic cafe",
+  "address": "Cromwell Rd, London SW7 2RL, United Kingdom"
+}

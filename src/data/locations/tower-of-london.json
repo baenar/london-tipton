@@ -1,0 +1,12 @@
+﻿{
+  "id": "tower-of-london",
+  "name": "Tower of London",
+  "coordinates": [51.5081, -0.0759],
+  "description": "Historic castle and UNESCO World Heritage Site founded by William the Conqueror in 1066. Home of the Crown Jewels and Yeoman Warders.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tower_of_London",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/1280px-Tower_of_London_from_the_Shard_%288515883950%29.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Crown Jewels, White Tower, and ravens",
+  "address": "London EC3N 4AB, United Kingdom"
+}

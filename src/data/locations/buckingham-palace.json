@@ -1,0 +1,13 @@
+{
+  "id": "buckingham-palace",
+  "name": "Buckingham Palace",
+  "coordinates": [51.5014, -0.1419],
+  "description": "The London residence and administrative headquarters of the monarch of the United Kingdom, famous for the Changing of the Guard ceremony.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+  "tripadvisorUrl": "https://www.tripadvisor.com/Attraction_Review-g186338-d187555-Reviews-Buckingham_Palace-London_England.html",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Buckingham_Palace.jpg/1280px-Buckingham_Palace.jpg",
+  "category": "Royal & Historic",
+  "suggestedDurationMinutes": 45,
+  "highlight": "Changing of the Guard ceremony & grand palace facade",
+  "address": "London SW1A 1AA, United Kingdom"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "id": "big-ben",
+  "name": "Big Ben & Palace of Westminster",
+  "coordinates": [51.5007, -0.1246],
+  "description": "The iconic Elizabeth Tower and the historic seat of the Parliament of the United Kingdom overlooking the River Thames.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Big_Ben",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg/1280px-Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster%2C_London.jpg",
+  "category": "Iconic Landmark",
+  "suggestedDurationMinutes": 30,
+  "highlight": "Great clock bell & gothic revival architecture",
+  "address": "London SW1A 0AA, United Kingdom"
+}
