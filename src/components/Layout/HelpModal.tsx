@@ -58,6 +58,16 @@ export const HelpModal: React.FC<HelpModalProps> = ({ isOpen, onClose }) => {
           <div className="space-y-1.5 pt-2 border-t border-slate-100">
             <h4 className="font-bold text-slate-800 text-sm flex items-center gap-1.5">
               <FileCode className="w-4 h-4 text-indigo-600" />
+              Curated Trips (LLM Friendly!)
+            </h4>
+            <p className="leading-relaxed">
+              Trips saved on your computer live as JSON files in <code className="bg-slate-100 px-1 py-0.5 rounded text-slate-800">src/data/trips/</code> and are bundled into the deployment automatically — just paste an exported <strong>Save to JSON</strong> file there. They appear under <strong>My Trips</strong>, so you can plan on a computer and open the same trip on your phone later.
+            </p>
+          </div>
+
+          <div className="space-y-1.5 pt-2 border-t border-slate-100">
+            <h4 className="font-bold text-slate-800 text-sm flex items-center gap-1.5">
+              <FileCode className="w-4 h-4 text-indigo-600" />
               Adding Attractions via JSON (LLM Friendly!)
             </h4>
             <p className="leading-relaxed">

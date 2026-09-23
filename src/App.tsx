@@ -1,7 +1,8 @@
 import { useState, useEffect, useMemo, useCallback } from 'react';
 import type { LocationItem } from './types/location';
-import type { TripStop } from './types/trip';
+import type { SavedTripData, TripStop } from './types/trip';
 import { getAllLocations } from './services/locationService';
+import { getSavedTrips } from './services/tripCatalogService';
 import {
   calculateTripSummary,
   calculateSegments,
@@ -15,7 +16,6 @@ import {
   saveCustomLocationsToLocalStorage,
   loadCustomLocationsFromLocalStorage,
 } from './services/tripStorageService';
-import { SAMPLE_TRIPS } from './data/sampleTrips';
 import { MapView } from './components/Map/MapView';
 import { AttractionList } from './components/Attractions/AttractionList';
 import { AttractionDetailModal } from './components/Attractions/AttractionDetailModal';
@@ -33,7 +33,10 @@ export function App() {
   // Load static modular JSON locations
   const [staticLocations] = useState<LocationItem[]>(() => getAllLocations());
 
-  // Boot state (localStorage + fallback preset), computed once on first render
+  // Trips bundled from src/data/trips/
+  const [bundledTrips] = useState<SavedTripData[]>(() => getSavedTrips());
+
+  // Boot state (localStorage + fallback trip), computed once on first render
   const [bootState] = useState(() => {
     const savedCustomLocations = loadCustomLocationsFromLocalStorage();
     const all = [...staticLocations, ...savedCustomLocations];
@@ -48,12 +51,13 @@ export function App() {
       };
     }
 
-    const sample = SAMPLE_TRIPS[0];
-    const parsed = parseTripJson(JSON.stringify(sample), all);
+    const fallback = bundledTrips[0];
+    const parsed = fallback ? parseTripJson(JSON.stringify(fallback), all) : undefined;
     return {
-      title: parsed.resolvedStops.length > 0 ? sample.title : 'My London Walking Trip',
-      stops: parsed.resolvedStops.length > 0 ? parsed.resolvedStops : [],
-      walkingSpeedKmh: parsed.resolvedStops.length > 0 ? sample.walkingSpeedKmh : 4.5,
+      title: fallback && parsed && parsed.resolvedStops.length > 0 ? fallback.title : 'My London Walking Trip',
+      stops: fallback && parsed && parsed.resolvedStops.length > 0 ? parsed.resolvedStops : [],
+      walkingSpeedKmh:
+        fallback && parsed && parsed.resolvedStops.length > 0 ? fallback.walkingSpeedKmh : 4.5,
       customLocations: savedCustomLocations,
     };
   });
@@ -191,21 +195,38 @@ export function App() {
     }
   }, [showToast]);
 
-  // Load preset walk
-  const handleLoadPreset = useCallback(
+  // Open a bundled saved trip from src/data/trips/
+  const handleLoadTrip = useCallback(
     (index: number) => {
-      const preset = SAMPLE_TRIPS[index];
-      if (!preset) return;
+      const trip = bundledTrips[index];
+      if (!trip) return;
 
-      const parsed = parseTripJson(JSON.stringify(preset), allLocations);
-      if (parsed.resolvedStops.length > 0) {
-        setTripTitle(preset.title);
-        setTripStops(parsed.resolvedStops);
-        setWalkingSpeedKmh(preset.walkingSpeedKmh);
-        showToast(`Loaded preset: "${preset.title}"`);
+      const parsed = parseTripJson(JSON.stringify(trip), allLocations);
+      if (parsed.resolvedStops.length === 0) {
+        showToast(
+          `Trip "${trip.title}" has no recognizable stops (${parsed.missingLocationIds.join(', ') || 'none'}).`,
+          'error'
+        );
+        return;
       }
+
+      // Restore custom locations embedded in the trip file
+      if (parsed.importedCustomLocations.length > 0) {
+        setCustomLocations((prev) => {
+          const merged = [...prev];
+          parsed.importedCustomLocations.forEach((c) => {
+            if (!merged.some((m) => m.id === c.id)) merged.push(c);
+          });
+          return merged;
+        });
+      }
+
+      setTripTitle(trip.title);
+      setTripStops(parsed.resolvedStops);
+      setWalkingSpeedKmh(trip.walkingSpeedKmh);
+      showToast(`Opened trip: "${trip.title}"`);
     },
-    [allLocations, showToast]
+    [bundledTrips, allLocations, showToast]
   );
 
   // Export trip to JSON file
@@ -350,18 +371,20 @@ export function App() {
                   setDesktopSidebarTab('attractions');
                   setActiveMobileTab('attractions');
                 }}
-                onLoadPreset={handleLoadPreset}
+                trips={bundledTrips}
+                onLoadTrip={handleLoadTrip}
               />
 
-              {/* Bottom Actions (Save JSON, Open JSON, Presets) */}
+              {/* Bottom Actions (Save JSON, Open JSON, My Trips) */}
               <TripActions
                 tripTitle={tripTitle}
                 onTripTitleChange={setTripTitle}
                 hasStops={tripStops.length > 0}
+                trips={bundledTrips}
                 onExportJson={handleExportJson}
                 onImportJsonFile={handleImportJsonFile}
                 onClearTrip={handleClearTrip}
-                onLoadPreset={handleLoadPreset}
+                onLoadTrip={handleLoadTrip}
               />
             </div>
           ) : (

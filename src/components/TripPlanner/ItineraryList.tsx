@@ -1,5 +1,5 @@
 import React from 'react';
-import type { TripStop, WalkingSegment } from '../../types/trip';
+import type { SavedTripData, TripStop, WalkingSegment } from '../../types/trip';
 import type { LocationItem } from '../../types/location';
 import { formatDuration, formatDistance } from '../../services/tripCalculationService';
 import {
@@ -15,25 +15,27 @@ import {
 interface ItineraryListProps {
   stops: TripStop[];
   segments: WalkingSegment[];
+  trips: SavedTripData[];
   onSelectLocation: (location: LocationItem) => void;
   onUpdateDuration: (stopId: string, durationMinutes: number) => void;
   onMoveUp: (index: number) => void;
   onMoveDown: (index: number) => void;
   onRemoveStop: (stopId: string) => void;
   onOpenAttractionsTab: () => void;
-  onLoadPreset: (presetIndex: number) => void;
+  onLoadTrip: (presetIndex: number) => void;
 }
 
 export const ItineraryList: React.FC<ItineraryListProps> = ({
   stops,
   segments,
+  trips,
   onSelectLocation,
   onUpdateDuration,
   onMoveUp,
   onMoveDown,
   onRemoveStop,
   onOpenAttractionsTab,
-  onLoadPreset,
+  onLoadTrip,
 }) => {
   if (stops.length === 0) {
     return (
@@ -57,22 +59,19 @@ export const ItineraryList: React.FC<ItineraryListProps> = ({
           </button>
           <div className="flex items-center gap-2 my-1">
             <div className="h-px bg-slate-200 flex-1" />
-            <span className="text-[11px] text-slate-400 font-medium">or try a preset</span>
+            <span className="text-[11px] text-slate-400 font-medium">or open a saved trip</span>
             <div className="h-px bg-slate-200 flex-1" />
           </div>
           <div className="grid grid-cols-2 gap-2">
-            <button
-              onClick={() => onLoadPreset(0)}
-              className="py-1.5 px-2 bg-white hover:bg-slate-50 text-slate-700 font-medium text-[11px] rounded-lg border border-slate-200 transition-colors"
-            >
-              Royal London (4 stops)
-            </button>
-            <button
-              onClick={() => onLoadPreset(1)}
-              className="py-1.5 px-2 bg-white hover:bg-slate-50 text-slate-700 font-medium text-[11px] rounded-lg border border-slate-200 transition-colors"
-            >
-              Thames & City (6 stops)
-            </button>
+            {trips.map((trip, idx) => (
+              <button
+                key={trip.id}
+                onClick={() => onLoadTrip(idx)}
+                className="py-1.5 px-2 bg-white hover:bg-slate-50 text-slate-700 font-medium text-[11px] rounded-lg border border-slate-200 transition-colors truncate"
+              >
+                {trip.title} ({trip.stops.length} stops)
+              </button>
+            ))}
           </div>
         </div>
       </div>

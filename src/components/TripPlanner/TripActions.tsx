@@ -1,25 +1,27 @@
 import React, { useRef } from 'react';
 import { Download, Upload, RotateCcw, BookOpen, Edit2 } from 'lucide-react';
-import { SAMPLE_TRIPS } from '../../data/sampleTrips';
+import type { SavedTripData } from '../../types/trip';
 
 interface TripActionsProps {
   tripTitle: string;
   onTripTitleChange: (title: string) => void;
   hasStops: boolean;
+  trips: SavedTripData[];
   onExportJson: () => void;
   onImportJsonFile: (file: File) => void;
   onClearTrip: () => void;
-  onLoadPreset: (index: number) => void;
+  onLoadTrip: (index: number) => void;
 }
 
 export const TripActions: React.FC<TripActionsProps> = ({
   tripTitle,
   onTripTitleChange,
   hasStops,
+  trips,
   onExportJson,
   onImportJsonFile,
   onClearTrip,
-  onLoadPreset,
+  onLoadTrip,
 }) => {
   const fileInputRef = useRef<HTMLInputElement | null>(null);
 
@@ -82,20 +84,29 @@ export const TripActions: React.FC<TripActionsProps> = ({
         />
       </div>
 
-      {/* Secondary Bar: Presets & Clear */}
-      <div className="flex items-center justify-between pt-1 text-[11px] text-slate-500">
-        <div className="flex items-center gap-1">
-          <BookOpen className="w-3 h-3 text-slate-400" />
-          <span>Presets:</span>
-          {SAMPLE_TRIPS.map((sample, idx) => (
-            <button
-              key={sample.id}
-              onClick={() => onLoadPreset(idx)}
-              className="text-indigo-600 hover:text-indigo-800 font-medium hover:underline ml-1"
-            >
-              {idx === 0 ? 'Royal' : 'Thames'}
-            </button>
-          ))}
+      {/* Secondary Bar: My Trips & Clear */}
+      <div className="flex items-center justify-between gap-2 pt-1 text-[11px] text-slate-500">
+        <div className="flex items-center gap-1.5 min-w-0">
+          <BookOpen className="w-3 h-3 text-slate-400 shrink-0" />
+          <span className="shrink-0">My Trips:</span>
+          <select
+            value=""
+            onChange={(e) => {
+              const idx = Number(e.target.value);
+              if (Number.isInteger(idx) && idx >= 0) onLoadTrip(idx);
+            }}
+            title="Open a trip bundled from src/data/trips/"
+            className="text-[11px] font-medium text-indigo-600 bg-slate-50 hover:bg-indigo-50 rounded-md px-1.5 py-0.5 border border-slate-200 hover:border-indigo-300 focus:border-indigo-400 focus:outline-hidden cursor-pointer truncate max-w-[150px]"
+          >
+            <option value="" disabled>
+              Select a trip...
+            </option>
+            {trips.map((trip, idx) => (
+              <option key={trip.id} value={idx}>
+                {trip.title} ({trip.stops.length} stops)
+              </option>
+            ))}
+          </select>
         </div>
 
         {hasStops && (
