@@ -1,0 +1,12 @@
+{
+  "id": "stamford-bridge",
+  "name": "Stamford Bridge (Chelsea)",
+  "coordinates": [51.4817, -0.191],
+  "description": "Chelsea FC's ground since 1905, the 40,000-seat Bridge is London's oldest Premier League home, with the Chelsea FC Museum and stadium tours.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Stamford_Bridge_(stadium)",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/London_Stamford_Bridge.jpg/1280px-London_Stamford_Bridge.jpg",
+  "category": "Sport & Stadium",
+  "suggestedDurationMinutes": 90,
+  "highlight": "Chelsea's ground since 1905 & stadium tours",
+  "address": "Stamford Bridge, Fulham Road, London SW6 1HS, United Kingdom"
+}

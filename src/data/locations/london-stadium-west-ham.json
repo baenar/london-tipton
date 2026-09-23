@@ -1,0 +1,12 @@
+{
+  "id": "london-stadium-west-ham",
+  "name": "London Stadium (West Ham)",
+  "coordinates": [51.5386, -0.0166],
+  "description": "The 2012 Olympic Stadium in Queen Elizabeth Olympic Park, now West Ham United's 62,500-seat home, with the ArcelorMittal Orbit nearby and tours of the ground.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/London_Stadium",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/London_Olympic_Stadium_West_Ham.jpg/1280px-London_Olympic_Stadium_West_Ham.jpg",
+  "category": "Sport & Stadium",
+  "suggestedDurationMinutes": 90,
+  "highlight": "2012 Olympic Stadium, home of West Ham & the Orbit",
+  "address": "Queen Elizabeth Olympic Park, London Stadium, London E20 2ST, United Kingdom"
+}

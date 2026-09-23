@@ -1,0 +1,12 @@
+{
+  "id": "selhurst-park",
+  "name": "Selhurst Park (Crystal Palace)",
+  "coordinates": [51.4004, -0.0853],
+  "description": "Crystal Palace's home since 1924, the compact 25,486-capacity ground famous for its raucous Holmesdale Road atmosphere and guided stadium tours.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Selhurst_Park",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Selhurst_Park_Stadium.jpg/1280px-Selhurst_Park_Stadium.jpg",
+  "category": "Sport & Stadium",
+  "suggestedDurationMinutes": 60,
+  "highlight": "Home of Crystal Palace since 1924 & the famous Holmesdale Stand",
+  "address": "Selhurst Park, Whitehorse Lane, London SE25 6PU, United Kingdom"
+}

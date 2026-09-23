@@ -1,0 +1,12 @@
+{
+  "id": "electric-cinema-notting-hill",
+  "name": "Electric Cinema Notting Hill",
+  "coordinates": [51.5155, -0.2051],
+  "description": "Opened in 1910 on Portobello Road, one of the UK's oldest working cinemas, famous for five-star seating: leather armchairs, footstools, double sofas and bar service.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Electric_Cinema,_Notting_Hill",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Electric_Cinema%2C_Portobello_Road%2C_London_W11.jpg/1280px-Electric_Cinema%2C_Portobello_Road%2C_London_W11.jpg",
+  "category": "Entertainment & View",
+  "suggestedDurationMinutes": 20,
+  "highlight": "1910 cinema with sofas, footstools & a bar",
+  "address": "191 Portobello Road, London W11 2ED, United Kingdom"
+}

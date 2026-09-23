@@ -1,0 +1,96 @@
+{
+  "version": "1.0",
+  "id": "trip-1790158353727",
+  "title": "Day 2 - Westminster Abbey to Tower Bridge walk",
+  "description": "Created with London Walking Trip Planner",
+  "createdAt": "2026-09-23T10:12:33.727Z",
+  "walkingSpeedKmh": 4.5,
+  "stops": [
+    {
+      "locationId": "sidney-hotel-victoria",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "westminster-abbey",
+      "durationMinutes": 120
+    },
+    {
+      "locationId": "trafalgar-square",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "national-gallery",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "covent-garden",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "royal-opera-house",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "st-pauls-cathedral",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "tate-modern",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "shakespeares-globe",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "borough-market",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "the-monument",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "tower-of-london",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "tower-bridge",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "custom-1790158331517-v59d",
+      "durationMinutes": 0,
+      "customLocation": {
+        "id": "custom-1790158331517-v59d",
+        "name": "Tube to 02",
+        "coordinates": [
+          51.50527666492808,
+          -0.08686065673828126
+        ],
+        "description": "Custom stop created on map (51.5053, -0.0869)",
+        "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.50527666492808,-0.08686065673828126",
+        "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+        "category": "Custom Point",
+        "suggestedDurationMinutes": 0,
+        "address": "Coordinates: 51.50528, -0.08686"
+      }
+    }
+  ],
+  "customLocations": [
+    {
+      "id": "custom-1790158331517-v59d",
+      "name": "Tube to 02",
+      "coordinates": [
+        51.50527666492808,
+        -0.08686065673828126
+      ],
+      "description": "Custom stop created on map (51.5053, -0.0869)",
+      "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.50527666492808,-0.08686065673828126",
+      "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+      "category": "Custom Point",
+      "suggestedDurationMinutes": 0,
+      "address": "Coordinates: 51.50528, -0.08686"
+    }
+  ]
+}

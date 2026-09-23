@@ -1,0 +1,12 @@
+{
+  "id": "emirates-stadium",
+  "name": "Emirates Stadium (Arsenal)",
+  "coordinates": [51.555, -0.1084],
+  "description": "Home of Arsenal FC since 2006, the 60,704-seat Emirates replaced Highbury and is one of the Premier League's finest modern grounds, with a museum and stadium tours.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Emirates_Stadium",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/London_Emirates_Stadium_arsenal.jpg/1280px-London_Emirates_Stadium_arsenal.jpg",
+  "category": "Sport & Stadium",
+  "suggestedDurationMinutes": 90,
+  "highlight": "60,704-seat home of Arsenal with tours & museum",
+  "address": "Emirates Stadium, Highbury House, 75 Drayton Park, London N5 1BU, United Kingdom"
+}

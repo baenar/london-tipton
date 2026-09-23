@@ -1,0 +1,12 @@
+{
+  "id": "notting-hill-bookshop",
+  "name": "The Notting Hill Bookshop",
+  "coordinates": [51.5156, -0.2055],
+  "description": "The real Blenheim Crescent travel bookshop that inspired Richard Curtis's film. It closed in 2011 after the movie's success pushed up rents, then reopened here as The Notting Hill Bookshop.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Notting_Hill_(film)",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/The_Notting_Hill_Bookshop_-_2025-01-03.jpg/1280px-The_Notting_Hill_Bookshop_-_2025-01-03.jpg",
+  "category": "Film Landmark",
+  "suggestedDurationMinutes": 15,
+  "highlight": "The real-life bookshop that inspired 'Notting Hill'",
+  "address": "13 Blenheim Crescent, London W11 2EE, United Kingdom"
+}

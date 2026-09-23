@@ -1,0 +1,100 @@
+{
+  "version": "1.0",
+  "id": "trip-1790158744183",
+  "title": "Day 3 - Notting Hill",
+  "description": "Created with London Walking Trip Planner",
+  "createdAt": "2026-09-23T10:19:04.183Z",
+  "walkingSpeedKmh": 4.5,
+  "stops": [
+    {
+      "locationId": "custom-1790158596591-u2nd",
+      "durationMinutes": 0,
+      "customLocation": {
+        "id": "custom-1790158596591-u2nd",
+        "name": "Tube dropoff",
+        "coordinates": [
+          51.52092072985822,
+          -0.20140171051025393
+        ],
+        "description": "Custom stop created on map (51.5209, -0.2014)",
+        "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.52092072985822,-0.20140171051025393",
+        "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+        "category": "Custom Point",
+        "suggestedDurationMinutes": 0,
+        "address": "Coordinates: 51.52092, -0.20140"
+      }
+    },
+    {
+      "locationId": "notting-hill",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "blue-door-notting-hill",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "notting-hill-bookshop",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "electric-cinema-notting-hill",
+      "durationMinutes": 0
+    },
+    {
+      "locationId": "travel-book-shop-portobello",
+      "durationMinutes": 15
+    },
+    {
+      "locationId": "custom-1790158630766-ic6o",
+      "durationMinutes": 0,
+      "customLocation": {
+        "id": "custom-1790158630766-ic6o",
+        "name": "Ladbroke Grove Central",
+        "coordinates": [
+          51.51165378901763,
+          -0.2058219909667969
+        ],
+        "description": "Custom stop created on map (51.5117, -0.2058)",
+        "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.51165378901763,-0.2058219909667969",
+        "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+        "category": "Custom Point",
+        "suggestedDurationMinutes": 0,
+        "address": "Coordinates: 51.51165, -0.20582"
+      }
+    },
+    {
+      "locationId": "holland-park-kyoto-garden",
+      "durationMinutes": 0
+    }
+  ],
+  "customLocations": [
+    {
+      "id": "custom-1790158596591-u2nd",
+      "name": "Tube dropoff",
+      "coordinates": [
+        51.52092072985822,
+        -0.20140171051025393
+      ],
+      "description": "Custom stop created on map (51.5209, -0.2014)",
+      "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.52092072985822,-0.20140171051025393",
+      "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+      "category": "Custom Point",
+      "suggestedDurationMinutes": 0,
+      "address": "Coordinates: 51.52092, -0.20140"
+    },
+    {
+      "id": "custom-1790158630766-ic6o",
+      "name": "Ladbroke Grove Central",
+      "coordinates": [
+        51.51165378901763,
+        -0.2058219909667969
+      ],
+      "description": "Custom stop created on map (51.5117, -0.2058)",
+      "wikipediaUrl": "https://www.google.com/maps/search/?api=1&query=51.51165378901763,-0.2058219909667969",
+      "imageUrl": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=800&q=80",
+      "category": "Custom Point",
+      "suggestedDurationMinutes": 0,
+      "address": "Coordinates: 51.51165, -0.20582"
+    }
+  ]
+}

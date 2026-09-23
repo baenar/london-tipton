@@ -1,0 +1,12 @@
+{
+  "id": "tottenham-hotspur-stadium",
+  "name": "Tottenham Hotspur Stadium",
+  "coordinates": [51.6043, -0.0665],
+  "description": "Tottenham's state-of-the-art 62,850-seat home opened in 2019, the world's finest stadium for football and NFL, with a world-leading retractable pitch and the Sky Walk.",
+  "wikipediaUrl": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_Stadium",
+  "imageUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/London_Tottenham_Hotspur_Stadium.jpg/1280px-London_Tottenham_Hotspur_Stadium.jpg",
+  "category": "Sport & Stadium",
+  "suggestedDurationMinutes": 90,
+  "highlight": "62,850-seat 2019 home of Spurs with retractable NFL pitch",
+  "address": "Tottenham Hotspur Stadium, 782 High Road, London N17 0AP, United Kingdom"
+}
